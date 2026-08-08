@@ -58,7 +58,7 @@ CN version based on [Resource Han Rounded](https://github.com/CyanoHao/Resource-
 
 ## Download
 
-You can download all the font archives from [Releases](https://github.com/subframe7536/maple-font/releases).
+You can download all the font archives from [Releases](https://github.com/subframe7536/maple-font/releases/tag/v7.9).
 
 ### Scoop (Windows)
 
