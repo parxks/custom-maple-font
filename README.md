@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This branch has been frozen as a snapshot of V7. V8 will include the latest features and bug fixes. see it in [`variable` branch](https://github.com/subframe7536/maple-font/tree/variable).
+
 ![Cover](./resources/header.png)
 
 <p align="center">
