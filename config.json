@@ -3,7 +3,9 @@
   "family_name": "Maple Mono Px",
   "font_version": "8.002",
   "formats": [
-    "ttf"
+    "ttf",
+    "otf",
+    "woff2"
   ],
   "use_hinted": false,
   "standard_zero": true,
@@ -13,14 +15,14 @@
   "infinite_arrow": true,
   "remove_tag_liga": false,
   "weight_mapping": {
-    "thin": 125,
+    "thin": 100,
     "extralight": 225,
     "light": 325,
     "regular": 450,
     "medium": 525,
     "semibold": 625,
     "bold": 715,
-    "extrabold": 810
+    "extrabold": 800
   },
   "codepoint_alias": {},
   "line_height": 1.0,
