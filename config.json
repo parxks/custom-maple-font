@@ -15,14 +15,14 @@
   "infinite_arrow": true,
   "remove_tag_liga": false,
   "weight_mapping": {
-    "thin": 100,
+    "thin": 125,
     "extralight": 225,
     "light": 325,
     "regular": 450,
     "medium": 525,
     "semibold": 625,
     "bold": 715,
-    "extrabold": 800
+    "extrabold": 810
   },
   "codepoint_alias": {},
   "line_height": 1.0,
