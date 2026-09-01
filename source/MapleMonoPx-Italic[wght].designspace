@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axis tag="wght" name="Weight" minimum="100" default="450" maximum="810"/>
+  
+  <sources>
+    <source filename="MapleMonoPx-Italic[wght]-VF.ttf" stylename="Italic" default="true">
+      <location>
+        <dimension name="Weight" xvalue="450"/>
+      </location>
+    </source>
+  </sources>
+  
+  <instances>
+    <instance stylename="Thin Italic" filename="MapleMonoPx-ThinItalic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+      </location>
+    </instance>
+    <instance stylename="ExtraLight Italic" filename="MapleMonoPx-ExtraLightItalic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="225"/>
+      </location>
+    </instance>
+    <instance stylename="Light Italic" filename="MapleMonoPx-LightItalic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="325"/>
+      </location>
+    </instance>
+    <instance stylename="Italic" filename="MapleMonoPx-Italic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="450"/>
+      </location>
+    </instance>
+    <instance stylename="Medium Italic" filename="MapleMonoPx-MediumItalic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="525"/>
+      </location>
+    </instance>
+    <instance stylename="SemiBold Italic" filename="MapleMonoPx-SemiBoldItalic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="625"/>
+      </location>
+    </instance>
+    <instance stylename="Bold Italic" filename="MapleMonoPx-BoldItalic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="715"/>
+      </location>
+    </instance>
+    <instance stylename="ExtraBold Italic" filename="MapleMonoPx-ExtraBoldItalic.ttf">
+      <location>
+        <dimension name="Weight" xvalue="810"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>
