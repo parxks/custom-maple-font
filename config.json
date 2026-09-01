@@ -80,7 +80,7 @@
     "enable": true,
     "version": "3.5.0",
     "mono": false,
-    "propo": false,
+    "propo": true,
     "use_font_patcher": false,
     "glyphs": [
       "--complete"
@@ -93,7 +93,7 @@
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": false,
-    "use_hinted": falsfalsee,
+    "use_hinted": false,
     "use_static_base_font": true,
     "scale_factor": 1.0
   }
