@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axis tag="wght" name="Weight" minimum="100" default="450" maximum="810"/>
+  
+  <sources>
+    <source filename="MapleMonoPx[wght]-VF.ttf" stylename="Regular" default="true">
+      <location>
+        <dimension name="Weight" xvalue="450"/>
+      </location>
+    </source>
+  </sources>
+  
+  <instances>
+    <instance stylename="Thin" filename="MapleMonoPx-Thin.ttf">
+      <location>
+        <dimension name="Weight" xvalue="125"/>
+      </location>
+    </instance>
+    <instance stylename="ExtraLight" filename="MapleMonoPx-ExtraLight.ttf">
+      <location>
+        <dimension name="Weight" xvalue="225"/>
+      </location>
+    </instance>
+    <instance stylename="Light" filename="MapleMonoPx-Light.ttf">
+      <location>
+        <dimension name="Weight" xvalue="325"/>
+      </location>
+    </instance>
+    <instance stylename="Regular" filename="MapleMonoPx-Regular.ttf">
+      <location>
+        <dimension name="Weight" xvalue="450"/>
+      </location>
+    </instance>
+    <instance stylename="Medium" filename="MapleMonoPx-Medium.ttf">
+      <location>
+        <dimension name="Weight" xvalue="525"/>
+      </location>
+    </instance>
+    <instance stylename="SemiBold" filename="MapleMonoPx-SemiBold.ttf">
+      <location>
+        <dimension name="Weight" xvalue="625"/>
+      </location>
+    </instance>
+    <instance stylename="Bold" filename="MapleMonoPx-Bold.ttf">
+      <location>
+        <dimension name="Weight" xvalue="715"/>
+      </location>
+    </instance>
+    <instance stylename="ExtraBold" filename="MapleMonoPx-ExtraBold.ttf">
+      <location>
+        <dimension name="Weight" xvalue="810"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>
