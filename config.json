@@ -97,6 +97,7 @@
       "tc": false,
       "kr": false,
       "custom": []
+      }
     },
     "with_nerd_font": true,
     "fix_meta_table": true,
@@ -107,4 +108,5 @@
       1.0,
       1.0
     ]
+  }
 }
