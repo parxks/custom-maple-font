@@ -8,7 +8,7 @@
   "pool_size": 4,
   "ttfautohint_param": {},
   "github_mirror": "github.com",
-  "infinite_arrow": true,
+  "infinite_arrow": false,
   "remove_tag_liga": false,
   "ligature": true,
   "weight_mapping": {
