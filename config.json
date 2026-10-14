@@ -1,9 +1,9 @@
 {
   "$schema": "./sources/schema.json",
-  "family_name": "Maple Mono Px",
+  "family_name": "Maple Mono Px Hinted",
   "font_version": "8.003",
   "formats": ["ttf", "otf", "woff2"],
-  "use_hinted": false,
+  "use_hinted": true,
   "standard_zero": true,
   "pool_size": 4,
   "ttfautohint_param": {},
